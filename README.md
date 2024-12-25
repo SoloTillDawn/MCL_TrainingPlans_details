@@ -1,4 +1,4 @@
-## title:Deep Learning-Driven Automated Segmentation for Mantle Cell Lymphoma in 3D FDG-PET: Towards Prognostic and Clinical Applications
+## Title: Deep Learning-Driven Automated Segmentation for Mantle Cell Lymphoma in 3D FDG-PET: Towards Prognostic and Clinical Applications
 ## tutorial
 ### Install the nnU-Net required libraries
 ### MCL_TrainingPlans_details
